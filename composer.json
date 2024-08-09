@@ -1,0 +1,5 @@
+{
+    "require": {
+        "alibabacloud/alidns-20150109": "3.4.3"
+    }
+}
